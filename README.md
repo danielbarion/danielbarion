@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 
 # Daniel Barion
 
-Hello World!
-
 [![Linkedin Badge](https://img.shields.io/badge/-danielbarion-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielobara/)](https://www.linkedin.com/in/danielobara/)
 
 <!-- [![Gmail Badge](https://img.shields.io/badge/-..........@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:......Hell@gmail.com)](mailto:danielbarionn@gmail.com) -->
